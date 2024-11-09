@@ -1,11 +1,15 @@
 header {
-    background-color: red;
+    color: red;
 }
 
 main {
-    background-color: yellow;
+    color: green;
+}
+
+h2 {
+    color: blue;
 }
 
 footer {
-    background-color: green;
+    color: green;
 }
